@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Sahadsawad Chailuan. 
+- 🌱 I’m a student at Chiang Mai University. My field of study is computer engineering.
 
 <!--
 **PossiblePack/PossiblePack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
